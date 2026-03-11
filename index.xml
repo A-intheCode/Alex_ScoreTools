@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<index version="1" name="Alex_ScoreTools" commit="main">
+  <category name="Dynamics">
+    <reapack name="Alex_ScoreTools_Set_Dynamics.lua" type="script" v0="11.00.04">
+      <metadata>
+        <description>Sets Dynamics for Midi Items for Scoring Soundtracks.</description>
+        <link rel="website">https://github.com/A-intheCode/Alex_ScoreTools</link>
+      </metadata>
+      <version name="11.00.04" author="Alex" time="2026-03-11T22:00:00Z">
+        <source main="main">https://github.com/A-intheCode/Alex_ScoreTools/raw/main/Alex_ScoreTools_Set_Dynamics.lua</source>
+      </version>
+    </reapack>
+  </category>
+</index>
