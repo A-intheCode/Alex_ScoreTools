@@ -1,3 +1,19 @@
+-- @description Alex Score Tools_set_dynamics
+-- @version 11.11
+-- @author A-intheCode
+-- @about
+--   Description: Adds a Anchor based Dynamics programming feature to Reaper as external script.
+--   Lizenz: GPLv3
+-- @changelog
+--   # 11.11 (2026-03-31)
+     changelog integration into the lua script.
+--   # 11.10 (2026-03-31)
+--   Copy Paste Function was included. 
+--   (you can now copy and paste from one Midi Item to another - all markers will get copied and the curves will regenerated.) 
+--   The Help Description was changed and extended. 
+--   The Score Dynamics Tool can now be docked to the Reaper Windows and the State of the docking position will be stored ...
+--   # 11.00.04 Inital Release
+
 -- [[
 --  Name: Alex Score Tools_set_dynamics
 --  Description: Adds a Anchor based Dynamics programming feature to Reaper as external script.
@@ -18,8 +34,8 @@
 --  along with this program. If not, see <https://www.gnu.org/licenses/>.
 -- ]]
 
--- Score Dynamics v11.10
- -- BASED ON v11.08 STABLE
+-- Score Dynamics v11.11
+ -- BASED ON v11.10 STABLE
  
 
  local last_mouse_cap = 0 
