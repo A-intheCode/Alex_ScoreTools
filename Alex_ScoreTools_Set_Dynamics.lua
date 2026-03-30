@@ -1,10 +1,12 @@
 -- @description Alex Score Tools_set_dynamics
--- @version 11.11
+-- @version 11.12
 -- @author A-intheCode
 -- @about
 --   Description: Adds a Anchor based Dynamics programming feature to Reaper as external script.
 --   Lizenz: GPLv3
 -- @changelog
+--   # 11.12 (2026-03-31)
+--     changelog integration into the lua script fix.
 --   # 11.11 (2026-03-31)
 --     changelog integration into the lua script.
 --   # 11.10 (2026-03-31)
@@ -34,8 +36,8 @@
 --  along with this program. If not, see <https://www.gnu.org/licenses/>.
 -- ]]
 
--- Score Dynamics v11.11
- -- BASED ON v11.10 STABLE
+-- Score Dynamics v11.12
+ -- BASED ON v11.11 STABLE
  
 
  local last_mouse_cap = 0 
