@@ -1,10 +1,12 @@
 -- @description Alex Score Tools_set_dynamics
--- @version 11.12
+-- @version 11.13
 -- @author A-intheCode
 -- @about
 --   Description: Adds a Anchor based Dynamics programming feature to Reaper as external script.
 --   Lizenz: GPLv3
 -- @changelog
+--   # 11.13 (2026-03-31)
+--     gfx.init version number fix
 --   # 11.12 (2026-03-31)
 --     changelog integration into the lua script fix.
 --   # 11.11 (2026-03-31)
@@ -36,8 +38,8 @@
 --  along with this program. If not, see <https://www.gnu.org/licenses/>.
 -- ]]
 
--- Score Dynamics v11.12
- -- BASED ON v11.11 STABLE
+-- Score Dynamics v11.13
+ -- BASED ON v11.12 STABLE
  
 
  local last_mouse_cap = 0 
@@ -383,6 +385,6 @@
      if gfx.getchar() >= 0 then reaper.defer(Main) end 
  end 
 
- gfx.init("Score Dynamics v11.12", 230, 650, last_dock, last_x, last_y) 
+ gfx.init("Score Dynamics v11.13", 230, 650, last_dock, last_x, last_y) 
  gfx.setfont(1, "Arial", 16) 
  Main()
