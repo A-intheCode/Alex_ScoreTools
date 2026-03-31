@@ -9,10 +9,10 @@
       <version name="11.12" author="A-intheCode" time="2026-03-11T22:00:00Z">
         <changelog><![CDATA[
 # 11.12 (2026-03-31)
-- Changelog Integration.
-- Copy/Paste function, to copy and paste dynamic markers from one midi item to annother.
-- Docking-function: The window position is now stored and dockable
-- the helping window was updated and extended.
+-  Copy Paste Function was included. 
+-  (you can now copy and paste from one Midi Item to another - all markers will get copied and the curves will regenerated.) 
+-  The Help Description was changed and extended. 
+-  The Score Dynamics Tool can now be docked to the Reaper Windows and the State of the docking position will be stored ...
         ]]></changelog>
         <source main="main">https://github.com/A-intheCode/Alex_ScoreTools/raw/main/Alex_ScoreTools_Set_Dynamics.lua</source>
       </version>
