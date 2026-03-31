@@ -9,10 +9,10 @@
       <version name="11.12" author="A-intheCode" time="2026-03-11T22:00:00Z">
         <changelog><![CDATA[
 # 11.12 (2026-03-31)
-- Changelog Integration direkt in das Script und die XML.
-- Copy/Paste Funktion für Marker zwischen MIDI-Items.
-- Docking-Funktion: Die Fensterposition wird nun gespeichert.
-- Hilfe-Text erweitert und GPLv3 Lizenz hinzugefügt.
+- Changelog Integration.
+- Copy/Paste function, to copy and paste dynamic markers from one midi item to annother.
+- Docking-function: The window position is now stored and dockable
+- the helping window was updated and extended.
         ]]></changelog>
         <source main="main">https://github.com/A-intheCode/Alex_ScoreTools/raw/main/Alex_ScoreTools_Set_Dynamics.lua</source>
       </version>
