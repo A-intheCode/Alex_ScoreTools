@@ -1,14 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <index version="1" name="Alex_ScoreTools" commit="main">
   <category name="Dynamics">
-    <reapack name="Alex_ScoreTools_Set_Dynamics.lua" type="script" v0="11.12">
+    <reapack name="Alex_ScoreTools_Set_Dynamics.lua" type="script" v0="11.13">
       <metadata>
         <description>Sets Dynamics for Midi Items for Scoring Soundtracks.</description>
         <link rel="website">https://github.com/A-intheCode/Alex_ScoreTools</link>
       </metadata>
-      <version name="11.12" author="A-intheCode" time="2026-03-11T22:00:00Z">
+      <version name="11.13" author="A-intheCode" time="2026-03-11T22:00:00Z">
         <changelog><![CDATA[
-# 11.12 (2026-03-31)
+# 11.13 (2026-03-31)
+-  gfx.init version number fix          
 -  Copy Paste Function was included. 
 -  (you can now copy and paste from one Midi Item to another - all markers will get copied and the curves will regenerated.) 
 -  The Help Description was changed and extended. 
