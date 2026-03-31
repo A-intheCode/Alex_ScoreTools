@@ -383,6 +383,6 @@
      if gfx.getchar() >= 0 then reaper.defer(Main) end 
  end 
 
- gfx.init("Score Dynamics v11.10", 230, 650, last_dock, last_x, last_y) 
+ gfx.init("Score Dynamics v11.12", 230, 650, last_dock, last_x, last_y) 
  gfx.setfont(1, "Arial", 16) 
  Main()
